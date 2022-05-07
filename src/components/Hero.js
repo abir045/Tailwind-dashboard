@@ -349,7 +349,7 @@ const Hero = () => {
           <button className="mx-2">10 Items per page </button>
           <img className="mx-2" src={Angle} width="13.75px" />
         </div>
-        <div className="flex fixed left-[24px] lg:right-[152px] md:right-[168px] w-[200px] h-[32px] bottom-[60px] border border-solid border-[#B2B2B6]  rounded">
+        <div className="flex fixed right-[168px] lg:right-[152px] md:right-[168px] w-[200px] h-[32px] bottom-[60px] border border-solid border-[#B2B2B6]  rounded">
           <button className="mx-2">Page 1 of 5</button>
           <img className="mx-2" src={Angle} width="13.75px" />
         </div>
